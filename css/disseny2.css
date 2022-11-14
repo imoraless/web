@@ -1,0 +1,193 @@
+.registre{
+	border: 1px solid black;
+	width: 450px;
+	padding: 30px;
+	margin: auto;
+	margin-top: 100px;
+	background: rgba(247, 249, 250, 0.3);
+	border-radius: 5px;
+}
+.confirma{
+	text-align: center;
+	justify-content: center;
+}
+.recuadre{
+	border: 2px solid black;
+	display: grid;
+	font-weight: bold;
+	border-radius: 5px;
+}
+footer a img
+{
+
+	justify-content: center;
+}
+body
+{
+	background-color: rgb(171, 150, 150);
+	font-family:  Times New Roman, Helvetica, sans-serif;
+}
+nav ul 
+{
+	background-color: black;
+	text-align: center;
+	height: auto;
+	display: block;
+	
+}
+nav  ul  l
+{
+	color: white;
+	font-family: sans;
+	display: left;
+	
+}
+h2
+{
+	text-align: center;
+}
+nav ul r
+{
+	display: right;
+	color: white;
+	font-family: sans;
+}
+nav ul li a 
+{
+	color: white;
+	font-family: sans;
+}
+nav ul li 
+{
+	list-style: none;
+	display: inline-block;
+	
+	<!--margin-top: 100px;-->
+	<!--height: 60px;-->
+	text-align: center;
+	font-weight: bold; 
+	font-size: 200%;
+}
+.album{
+	display: grid;
+	width: auto;
+	heigth: auto;
+	border: 1px solid black;
+	background-color: lightgray;
+	margin: 10px;
+	text-align: center;
+	justify-content: center;
+}
+.album img{
+	
+	width: 500px;
+	height: 500px;
+}
+.family
+{
+	display: grid;
+	width: auto;
+	heigth: auto;
+	border: 1px solid black;
+	background-color: rgb(250, 252, 200);
+	margin: 10px;
+	text-align: center;
+	justify-content: center;
+}
+.family img{	
+	width: 500px;
+	height: 500px;
+}
+
+.grid-layout{
+	display: grid;
+	grid-template-columns: auto auto;
+	<!--justify-content: flex-start;-->
+	width: auto;
+	margin : 10 auto;	
+	background-color: silver;
+	padding: 20 px;
+	border: 1px solid black;
+}
+.dessuadora
+{
+	
+	width: auto;
+	heigth: auto;
+	border: 1px solid black;
+	background-color: lightgray;
+	margin: 10px;
+	text-align: center;
+	justify-content: center;
+}
+header h1
+{
+	text-align:center;
+	color: black;	
+	position: relative;	
+	top: 15%;
+	font-size: 400%;
+	font-family: Garamond, serif;
+}
+
+
+
+input[type="text"], input[type="number"]
+{
+	
+	padding: 30px;
+	display: block;
+	width: 250px;
+	
+	border: solid rgb(241, 255, 148);
+	margin: 30px auto;
+}
+input[type="submit"]
+{
+	margin-left: 57%;
+}
+
+.fotos{
+    padding:10px;
+    margin:10px;
+    border:2px solid black;
+    float:left;
+
+}
+
+button[type = "button"][name = "boton1"]
+{
+	margin-left: 51%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
